@@ -1,5 +1,7 @@
 body {
     padding-top: 50px; /* Padding for .navbar-fixed-top. Change value if navbar height changes. Remove if using .navbar-static-top. */
+    background-color: #EBF4F4
+	
 }
 
 .portfolio-item {
@@ -9,11 +11,11 @@ body {
 .footer-blurb {
     padding: 30px 0;
 	text-align: center;
-    background-color: mediumorchid;
+    background-color: #C5DDDE;
 }
 
 .footer-blurb h3 {
-    color: blueviolet;
+    color: #A8394D;
     }
     
 .footer-blurb-item {
@@ -21,7 +23,13 @@ body {
     }
  
 .copyright {
-	background-color: #fff;
+	background-color: #EBF4F4;
 	text-align: center;
 	padding: 30px 0;
+}
+
+.navbar {
+    background-color:#C5DDDE;
+    color: #5E9395;
+    border-color: #C5DDDE;
 }
