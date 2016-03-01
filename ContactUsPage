@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Us</title>
+</head>
+
+<body>
+
+  <h1>Get in touch!</h1>
+
+  <h2>Where you can find us:</h2>
+
+  <ul>
+    <li>Facebook</li>
+    <li>Instagram</li>
+    <li>E-mail: foodie@hotmail.com</li>
+  </ul>
+
+  <p>Feel free to get in contact if you have any questions or foodie ideas you'd like to share!</p>
+
+<style media="screen" type="text/css">
+
+<h1 style="color:red;background:black;">
+<h2 style="color:red;background:black;">
+
+</style>
+
+
+</body>
+</html>
