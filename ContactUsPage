@@ -11,9 +11,9 @@
   <h2>Where you can find us:</h2>
 
   <ul>
-    <li>Facebook</li>
-    <li>Instagram</li>
-    <li>E-mail: foodie@hotmail.com</li>
+    <li><a class="btn btn-primary" href="">Facebook</a></li>
+    <li><a class="btn btn-primary" href="">Instagram</a></li>
+    <li><a class="btn btn-primary" href="">Email</a></li>
   </ul>
 
   <p>Feel free to get in contact if you have any questions or foodie ideas you'd like to share!</p>
